@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['getnexttoken',['getNextToken',['../utilities_8hpp.html#af03262e065346072b1532e6889b09af6',1,'utilities.hpp']]]
+  ['addrow',['addRow',['../structTable.html#a2a306aaceee41be2759b3a33802b1633',1,'Table']]]
 ];

@@ -1,0 +1,10 @@
+<map id="src/requests/truncate.hpp" name="src/requests/truncate.hpp">
+<area shape="rect" id="node2" href="$database_8hpp.html" title="src/db/database.hpp" alt="" coords="118,80,271,107"/>
+<area shape="rect" id="node9" href="$truncate_8cpp.html" title="src/requests/truncate.cpp" alt="" coords="296,80,483,107"/>
+<area shape="rect" id="node3" href="$database_8cpp.html" title="src/db/database.cpp" alt="" coords="5,155,157,181"/>
+<area shape="rect" id="node4" href="$main_8cpp.html" title="src/main.cpp" alt="" coords="193,304,298,331"/>
+<area shape="rect" id="node5" href="$session_8hpp.html" title="src/net/session.hpp" alt="" coords="279,155,425,181"/>
+<area shape="rect" id="node6" href="$server_8hpp.html" title="src/net/server.hpp" alt="" coords="283,229,421,256"/>
+<area shape="rect" id="node7" href="$server_8cpp.html" title="src/net/server.cpp" alt="" coords="355,304,493,331"/>
+<area shape="rect" id="node8" href="$session_8cpp.html" title="src/net/session.cpp" alt="" coords="496,229,643,256"/>
+</map>

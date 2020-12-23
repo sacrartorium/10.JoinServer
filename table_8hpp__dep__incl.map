@@ -1,0 +1,23 @@
+<map id="src/db/table.hpp" name="src/db/table.hpp">
+<area shape="rect" id="node2" href="$table__manager_8hpp.html" title="src/db/table_manager.hpp" alt="" coords="345,80,535,107"/>
+<area shape="rect" id="node22" href="$table_8cpp.html" title="src/db/table.cpp" alt="" coords="560,80,685,107"/>
+<area shape="rect" id="node3" href="$basic__request_8hpp.html" title="src/requests/basic\l_request.hpp" alt="" coords="371,155,509,196"/>
+<area shape="rect" id="node7" href="$main_8cpp.html" title="src/main.cpp" alt="" coords="613,572,718,599"/>
+<area shape="rect" id="node21" href="$table__manager_8cpp.html" title="src/db/table_manager.cpp" alt="" coords="533,162,723,189"/>
+<area shape="rect" id="node4" href="$create_8hpp.html" title="src/requests/create.hpp" alt="" coords="254,251,429,278"/>
+<area shape="rect" id="node13" href="$insert_8hpp.html" title="src/requests/insert.hpp" alt="" coords="453,251,624,278"/>
+<area shape="rect" id="node15" href="$intersection_8hpp.html" title="src/requests/intersection.hpp" alt="" coords="648,251,859,278"/>
+<area shape="rect" id="node17" href="$symmetric__difference_8hpp.html" title="src/requests/symmetric\l_difference.hpp" alt="" coords="883,244,1058,285"/>
+<area shape="rect" id="node19" href="$truncate_8hpp.html" title="src/requests/truncate.hpp" alt="" coords="43,251,229,278"/>
+<area shape="rect" id="node5" href="$database_8hpp.html" title="src/db/database.hpp" alt="" coords="645,341,798,367"/>
+<area shape="rect" id="node12" href="$create_8cpp.html" title="src/requests/create.cpp" alt="" coords="253,341,427,367"/>
+<area shape="rect" id="node6" href="$database_8cpp.html" title="src/db/database.cpp" alt="" coords="451,423,603,449"/>
+<area shape="rect" id="node8" href="$session_8hpp.html" title="src/net/session.hpp" alt="" coords="728,423,875,449"/>
+<area shape="rect" id="node9" href="$server_8hpp.html" title="src/net/server.hpp" alt="" coords="899,497,1037,524"/>
+<area shape="rect" id="node10" href="$server_8cpp.html" title="src/net/server.cpp" alt="" coords="953,572,1090,599"/>
+<area shape="rect" id="node11" href="$session_8cpp.html" title="src/net/session.cpp" alt="" coords="728,497,875,524"/>
+<area shape="rect" id="node14" href="$insert_8cpp.html" title="src/requests/insert.cpp" alt="" coords="451,341,621,367"/>
+<area shape="rect" id="node16" href="$intersection_8cpp.html" title="src/requests/intersection.cpp" alt="" coords="822,341,1031,367"/>
+<area shape="rect" id="node18" href="$symmetric__difference_8cpp.html" title="src/requests/symmetric\l_difference.cpp" alt="" coords="1055,333,1230,375"/>
+<area shape="rect" id="node20" href="$truncate_8cpp.html" title="src/requests/truncate.cpp" alt="" coords="43,341,229,367"/>
+</map>

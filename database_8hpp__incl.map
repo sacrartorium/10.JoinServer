@@ -1,0 +1,12 @@
+<map id="src/db/database.hpp" name="src/db/database.hpp">
+<area shape="rect" id="node2" href="$create_8hpp.html" title="../requests/create.hpp" alt="" coords="5,87,168,114"/>
+<area shape="rect" id="node15" href="$insert_8hpp.html" title="../requests/insert.hpp" alt="" coords="193,87,351,114"/>
+<area shape="rect" id="node16" href="$intersection_8hpp.html" title="../requests/intersection.hpp" alt="" coords="375,87,574,114"/>
+<area shape="rect" id="node17" href="$symmetric__difference_8hpp.html" title="../requests/symmetric\l_difference.hpp" alt="" coords="598,80,762,121"/>
+<area shape="rect" id="node18" href="$truncate_8hpp.html" title="../requests/truncate.hpp" alt="" coords="787,87,963,114"/>
+<area shape="rect" id="node3" href="$basic__request_8hpp.html" title="basic_request.hpp" alt="" coords="477,169,617,196"/>
+<area shape="rect" id="node4" href="$status_8hpp.html" title="../db/status.hpp" alt="" coords="423,393,545,420"/>
+<area shape="rect" id="node7" href="$table__manager_8hpp.html" title="../db/table_manager.hpp" alt="" coords="521,244,700,271"/>
+<area shape="rect" id="node13" href="$utilities_8hpp.html" title="../utilities.hpp" alt="" coords="725,244,835,271"/>
+<area shape="rect" id="node8" href="$table_8hpp.html" title="table.hpp" alt="" coords="603,319,685,345"/>
+</map>

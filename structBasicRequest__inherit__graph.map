@@ -1,0 +1,7 @@
+<map id="BasicRequest" name="BasicRequest">
+<area shape="rect" id="node2" href="$structRequestCreate.html" title="RequestCreate" alt="" coords="210,5,327,32"/>
+<area shape="rect" id="node3" href="$structRequestInsert.html" title="RequestInsert" alt="" coords="213,56,324,83"/>
+<area shape="rect" id="node4" href="$structRequestIntersection.html" title="RequestIntersection" alt="" coords="193,107,344,133"/>
+<area shape="rect" id="node5" href="$structRequestSymmetricDifference.html" title="RequestSymmetricDifference" alt="" coords="163,157,375,184"/>
+<area shape="rect" id="node6" href="$structRequestTruncate.html" title="RequestTruncate" alt="" coords="204,208,333,235"/>
+</map>
